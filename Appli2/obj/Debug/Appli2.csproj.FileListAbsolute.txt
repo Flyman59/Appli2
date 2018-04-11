@@ -1,0 +1,10 @@
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\bin\Debug\Appli2.exe.config
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\bin\Debug\Appli2.exe
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\bin\Debug\Appli2.pdb
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.csprojResolveAssemblyReference.cache
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.frmAppli2.resources
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.Properties.Resources.resources
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.csproj.GenerateResource.cache
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.csproj.CoreCompileInputs.cache
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.exe
+C:\Users\59013-62-11\Desktop\Appli2\Appli2\obj\Debug\Appli2.pdb
