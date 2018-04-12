@@ -16,7 +16,7 @@ namespace Appli2
         {
             InitializeComponent();
         }
-       
+       //Synchronisation github
         /// <summary>
         /// Réinitialise l'application par défaut
         /// </summary>
